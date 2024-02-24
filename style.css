@@ -12,11 +12,9 @@ body{
     margin: auto;
     padding: 0.2em;
     background-color: rgb(204, 218, 226);
-    border-top-left-radius: 5rem;
-    border-top-right-radius: 5rem;
-    border-bottom-left-radius: 5rem;
-    border-bottom-right-radius: 5rem; 
-    padding-top: none;       
+    border-radius: 5rem; 
+    padding: 2rem; 
+    width: 70%;      
 }
 
 h1{
@@ -60,10 +58,7 @@ img{
     background-color: rgb(29, 29, 29);
     width: 47rem;
     padding: 0.4rem;
-    border-top-left-radius: 5rem;
-    border-top-right-radius: 5rem;
-    border-bottom-left-radius: 5rem;
-    border-bottom-right-radius: 5rem;  
+    border-radius: 5rem;
     
 }
 .score-board{
